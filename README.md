@@ -10,4 +10,12 @@
  <a href="https://github.com/paulo-hortelan" alt="paulo hortelan github">
    <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
  </a>
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=paulo-hortelan&color=FFC000&style=for-the-badge" />
+ </a> 
+</p>
+
+<h2 align="center">🚀 Activities</h2>
+<p align="center">
+  <a href="#" alt="paulo hortelan's github stats"><img src="https://github-readme-stats.vercel.app/api?username=paulo-hortelan" /></a>
 </p>
