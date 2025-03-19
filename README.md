@@ -24,9 +24,9 @@
   <a href="#" alt="paulo hortelan's github stats"><img src="https://github-readme-stats.vercel.app/api?username=paulo-hortelan" /></a>
 </p>
 
-<h3 align="center">❤ Support</h2>
+<!--<h3 align="center">❤ Support</h2>
 <p align="center">
  <a href='https://ko-fi.com/paulohortelan' target='_blank'>
   <img style='border:0px;height:47px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
-</p>
+</p>-->
